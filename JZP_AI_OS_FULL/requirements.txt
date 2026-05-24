@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+google-genai
+pillow
+PyPDF2
+gtts
+audio-recorder-streamlit
